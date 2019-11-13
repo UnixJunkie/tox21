@@ -38,3 +38,16 @@ TARGET/ligands_std_rand.smi: all toxic molecules for TARGET and all
 standardisation/errors.smi: molecules that did not pass standardisation
 standardisation/standardised.smi: molecules that passed standardisation
 ```
+# Bibliography
+
+```
+@article{Huang2016,
+author = {Huang, Ruili and Xia, Menghang and Nguyen, Dac-Trung and Zhao, Tongan and Sakamuru, Srilatha and Zhao, Jinghua and Shahane, Sampada A. and Rossoshek, Anna and Simeonov, Anton},
+title = {Tox21Challenge to Build Predictive Models of Nuclear Receptor and Stress Response Pathways as Mediated by Exposure to Environmental Chemicals and Drugs},
+journal = {Frontiers in Environmental Science},
+volume = {3},
+pages = {85},
+year = {2016},
+doi = {10.3389/fenvs.2015.00085},
+}
+```
